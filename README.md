@@ -1,11 +1,5 @@
-
----
-title: ADL2024-HW1
-https://www.csie.ntu.edu.tw/~miulab/f113-adl/
-
----
-
 # ADL2024-HW1 
+https://www.csie.ntu.edu.tw/~miulab/f113-adl/
 ## Chinese Extractive Question Answering
 
 ### Task Description
